@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : Access to the path 'c:\users\phate\onedrive\desktop\uni\hamtarahi\q003\x64\debug\q003.exe' is denied.
+  control_unit.cpp
+  FileName.cpp
+  fitness_evaluation.cpp
+C:\Users\phate\OneDrive\Desktop\UNI\HamTarahi\q003\fitness_evaluation.cpp(23,51): warning C4244: '+=': conversion from 'sc_dt::int_type' to 'int', possible loss of data
+C:\Users\phate\OneDrive\Desktop\UNI\HamTarahi\q003\fitness_evaluation.cpp(24,53): warning C4244: '+=': conversion from 'sc_dt::int_type' to 'int', possible loss of data
+C:\Users\phate\OneDrive\Desktop\UNI\HamTarahi\q003\fitness_evaluation.cpp(28,21): warning C4244: 'initializing': conversion from 'sc_dt::int_type' to 'int', possible loss of data
+  memeplex_divider.cpp
+  population_sorter.cpp
+C:\Users\phate\OneDrive\Desktop\UNI\HamTarahi\q003\population_sorter.cpp(21,53): warning C4244: '=': conversion from 'sc_dt::int_type' to 'int', possible loss of data
+  position_updater.cpp
+  shuffler.cpp
+  test_sfla_top.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'C:\Users\phate\OneDrive\Desktop\UNI\HamTarahi\q003\x64\Debug\q003.exe'
